@@ -1,0 +1,12 @@
+.cache
+build
+dist
+*.egg-info
+*.pyc
+*.pyo
+__pycache__
+.idea
+secrets.py
+.ipynb_checkpoints
+.pytest_cache
+local
